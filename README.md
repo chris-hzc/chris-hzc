@@ -4,22 +4,17 @@
 </div>  
   
 
-### <div align="center">I'm Chris, a mathematics major student 👨‍💻</div>  
+
+## I'm Chris
+
+- 🔭 I’m currently studying in Beijing
+- 🌱 I’m currently learning Deep Learning
+- 💬 Ask me about Deep Learning, Python and my projects
+- 📫 How to reach me: houzhichaohzc@163.com
+- 🏀 I love playing basketball, table tennis and hiking  
+  
   
 
-- 🔭 I’m currently studying Deep Learning and its application  
-  
-
-- 🌱 I’m currently learning GNN  
-  
-
-- ❓ Ask me about anything related to Deep Learning and related technologies  
-  
-
-- 🏀 I am interested in basketball, table tennis and hiking  
-  
-
-<br/>  
 
 
 ## My Skill Set  
@@ -37,7 +32,16 @@
 <br/>  
 
 
-## Connect with me  
+
+## Github Stats  
+![Chris33Hou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris33Hou&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris33Hou&layout=compact)](https://github.com/Christmas/github-readme-stats)
+
+
+
+
+## Connect With Me  
 <div align="center">
 <a href="https://linkedin.com/in/Zhichao Hou" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -55,17 +59,6 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Chris33Hou&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-
-
 
 
 
