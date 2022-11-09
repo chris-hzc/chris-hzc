@@ -10,7 +10,7 @@
 - 🔭 I’m currently studying in Beijing
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: houzhichaohzc@gmail.com
+- 📫 How to reach me: zchou0807@gmail.com
 - 🏀 I love playing basketball, table tennis and hiking  
   
   
