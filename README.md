@@ -7,7 +7,7 @@
 
 ## I'm Chris
 
-- 🔭 I’m currently studying in Beijing
+- 🔭 I’m currently studying in NCSU
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Deep Learning, Python and my projects
 - 📫 How to reach me: zchou0807@gmail.com
