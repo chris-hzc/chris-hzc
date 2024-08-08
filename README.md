@@ -10,7 +10,7 @@
 - 🔭 I’m currently studying in NCSU
 - 🌱 I’m currently learning Deep Learning
 - 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: zchou0807@gmail.com
+- 📫 How to reach me: zhou4@ncsu.edu
 - 🏀 I love playing basketball, table tennis and hiking  
   
   
