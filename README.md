@@ -36,21 +36,6 @@
 
 
 
-## Connect With Me  
-<div align="center">
-<a href="https://linkedin.com/in/Zhichao Hou" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/zhichao_hou" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/Chris33Hou" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://wechat.com/hzc1053982100" target="_blank">
-<img src=https://aleen42.github.io/badges/src/wechat.svg alt=wechat style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
 
 <br/>  
