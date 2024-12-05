@@ -33,11 +33,6 @@
 
 
 
-## Github Stats  
-![Chris33Hou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chris33Hou&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chris33Hou&layout=compact)](https://github.com/Christmas/github-readme-stats)
-
 
 
 
